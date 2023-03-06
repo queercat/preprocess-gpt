@@ -1,0 +1,22 @@
+{
+  "name": "preprocess-gpt",
+  "version": "1.0.0",
+  "description": "Utilizing GPT as a preprocessor to mix language native code and high level pseudocode.",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queercat/preprocess-gpt.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/queercat/preprocess-gpt/issues"
+  },
+  "homepage": "https://github.com/queercat/preprocess-gpt#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
