@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "semi": [2, "always"],
+        "quotes": ["error", "single"]
+    },
+    
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    }
+}
