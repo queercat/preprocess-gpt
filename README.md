@@ -1,5 +1,9 @@
 # preprocess-gpt
-Utilizing GPT as a preprocessor to mix language native code and high level pseudocode.
+Utilize GPT as a preprocessor to mix language native instructions and high level pseudocode.
+
+
+https://user-images.githubusercontent.com/22136781/223641370-292390e2-59a0-4717-aedc-cd374bd8e2db.mp4
+
 
 # Sample
 
